@@ -1,6 +1,6 @@
 <h3 align="center">я не знаю кто я</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
